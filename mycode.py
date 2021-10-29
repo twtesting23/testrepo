@@ -1,1 +1,1 @@
-print("this is py file")
+print("this is python file")
